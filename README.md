@@ -19,7 +19,7 @@ make env-create
 # example
 $ wget https://github.com/deezer/spleeter/raw/master/audio_example.mp3
 
-# split to ./output folder
+# split to the `./output` folder
 $ bin/spleeter separate -p spleeter:2stems -o output audio_example.mp3
 ```
 
