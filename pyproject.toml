@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "spleeter-lab"
+version = "0.1.0"
+description = "spleeter lab"
+authors = ["Nick Mazurkin <mazurkin@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.12"
+spleeter = "2.4.0"
+
+[tool.poetry.group.fix.dependencies]
+numpy = "==1.26.4"
+httpcore = "==0.13.7"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
