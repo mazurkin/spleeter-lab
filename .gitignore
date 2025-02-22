@@ -1,0 +1,11 @@
+/.idea
+/*.iml
+/*.ipr
+/*.iws
+
+/*.mp3
+/*.wav
+/*.ogg
+
+.ipynb_checkpoints
+__pycache__
