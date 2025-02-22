@@ -1,4 +1,4 @@
-# Retrieval-based-Voice-Conversion-WebUI
+# Spleeter
 
 bootstrap for https://github.com/deezer/spleeter
 
