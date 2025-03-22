@@ -6,5 +6,8 @@ set -o pipefail
 set -o monitor
 set -o noglob
 
+export PYTHONDONTWRITEBYTECODE=1
+export PYTHONUNBUFFERED=1
+
 conda run --no-capture-output --live-stream --name spleeter \
     spleeter "$@"
