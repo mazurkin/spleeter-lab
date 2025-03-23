@@ -24,7 +24,7 @@ $ bin/spleeter separate -p spleeter:2stems -o output audio_example.mp3
 ```
 
 Different [models](https://github.com/deezer/spleeter?tab=readme-ov-file#about) are available:
-- `spleeter:2stems`
-- `spleeter:4stems`
-- `spleeter:5stems`
+- `spleeter:2stems` (https://github.com/deezer/spleeter/releases/download/v1.4.0/2stems.tar.gz)
+- `spleeter:4stems` (https://github.com/deezer/spleeter/releases/download/v1.4.0/4stems.tar.gz)
+- `spleeter:5stems` (https://github.com/deezer/spleeter/releases/download/v1.4.0/5stems.tar.gz)
 
